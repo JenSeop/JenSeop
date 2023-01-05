@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=100&text=Jen%20Seop&animation=twinkling&fontSize=55&fontAlign=80&fontAlignY=27&desc=beyond%20your%20imagination&descAlign=15&descAlignY=65&&rotate=6&)
