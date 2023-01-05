@@ -1,1 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=100&text=Jen%20Seop&animation=twinkling&fontSize=55&fontAlign=80&fontAlignY=27&desc=beyond%20your%20imagination&descAlign=15&descAlignY=65&&rotate=6&)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jenseop&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenseop&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
