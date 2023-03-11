@@ -5,7 +5,8 @@
 [![JenSeop's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenSeop&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # BAEKJOON
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dostwoman)](https://solved.ac/dostwoman)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dostwoman)](https://solved.ac/dostwoman)
  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:business@nogouse.com)](mailto:business@nogouse.com)
