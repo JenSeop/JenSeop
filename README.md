@@ -22,7 +22,7 @@
 <a href="#" onClick=""><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
 <br>
 <a href="#" onClick=""><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<a href="#" onClick=""><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/></a>
+<a href="#" onClick=""><img src="https://img.shields.io/badge/Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/></a>
 <a href="#" onClick=""><img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <a href="#" onClick=""><img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <br>
