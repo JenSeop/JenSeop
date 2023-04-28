@@ -34,7 +34,8 @@
 
 #
 <a href="#" onClick=""><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
-  <a href="#JneSeop#5668" onClick="JneSeop#5668"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+<a href="https://user-images.githubusercontent.com/95238604/235042498-9d1caab3-ecc6-4b1e-9bee-142f05abebc5.PNG" onClick=""><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+  ![dis](https://user-images.githubusercontent.com/95238604/235042498-9d1caab3-ecc6-4b1e-9bee-142f05abebc5.PNG)
 <a href="mailto:business@nogouse.com?subject=[FROM][GitHub] Hello, JenSeop."><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br>
 <a href="https://beyondyourimagination.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
