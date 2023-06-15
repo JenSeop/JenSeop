@@ -4,9 +4,6 @@
 [![JenSeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=JenSeop&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 # ✈️ Skills
-[![JenSeop's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenSeop&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-#
 
   <h3>Language</h3>
   <a href="#" onClick=""><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
