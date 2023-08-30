@@ -28,6 +28,7 @@
   
   <h3>LEARNING</h3>
   <a href="https://www.nginx.com/" onClick=""><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/ko/?nc2=h_lg" onClick=""><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   
 #
 
