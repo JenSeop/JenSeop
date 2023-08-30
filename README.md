@@ -8,6 +8,7 @@
   <h3>Language</h3>
   <a href="#" onClick=""><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <a href="#" onClick=""><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/></a>
+  <a href="https://www.python.org/" onClick=""><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   
   <h3>WEB-FE</h3>
   <a href="https://en.wikipedia.org/wiki/HTML5" onClick=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -17,17 +18,16 @@
   
   <h3>WEB-BE</h3>
   <a href="https://nodejs.org/en" onClick=""><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  <a href="https://www.djangoproject.com/" onClick=""><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   <a href="https://www.mysql.com/" onClick=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/" onClick=""><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
   
   <h3>WEB-FW</h3>
   <a href="https://getbootstrap.com/" onClick=""><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
   <a href="https://mui.com/" onClick=""><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/></a>
   
   <h3>LEARNING</h3>
-  <a href="https://www.python.org/" onClick=""><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <a href="https://nodejs.org/en" onClick=""><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   <a href="https://www.nginx.com/" onClick=""><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
-  <a href="https://www.postgresql.org/" onClick=""><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
   
 #
 
