@@ -1,13 +1,9 @@
 ## Aspiring Full Stack Developer Jen 😎  
   
 
-
-
 ### Unbounded Exploration 🚀  
  저만의 모티베이션 문구인 "Beyond your imagination" 처럼, <br>더욱 더 많고 폭 넓은 경험을 지향하며 다양한 도전을 실천하고 있습니다.  
   
-
-
 
 ### Overcoming Challenges 🏆  
 - 한발 더 앞서 생각할 것. 크게 보아야 더 잘 보인다. 💡  
@@ -19,8 +15,7 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Education and Career Path
 
 
 
@@ -30,8 +25,6 @@
 
 - LIKE LION - Start-up Station 9th 🦁  
   
-
-
 
 ### 2023  
 - Inovation Academy - La Piscine 🖥️  
@@ -43,14 +36,10 @@
 - Wanted - Data Challenge "Wants" 📊  
   
 
-- Information Security Hackathon 🕵️  
+- KISIA - Information Security Hackathon 🕵️  
 
 
 </td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -76,20 +65,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JenSeop&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenSeop&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
-
-<br/>  
-
   
 
 <br/>  
@@ -97,20 +72,3 @@
   
 
 <br/>  
-
-<div align="center">
-<a href="https://github.com/JenSeop" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jungsup-kim-645688274" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/gothic.sup" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
