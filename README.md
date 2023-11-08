@@ -1,48 +1,31 @@
 ## Aspiring Full Stack Developer Jen 😎  
   
-
 ### Unbounded Exploration 🚀  
  저만의 모티베이션 문구인 "Beyond your imagination" 처럼, <br>더욱 더 많고 폭 넓은 경험을 지향하며 다양한 도전을 실천하고 있습니다.  
   
-
 ### Overcoming Challenges 🏆  
+
 - 한발 더 앞서 생각할 것. 크게 보아야 더 잘 보인다. 💡  
   
-
 - 어떤 문제든지 직면해볼 것. 노력으로 해결 안되는건 없다. 💪  
-  
-
-<br/>  
-
 
 ## Education and Career Path
-
-
 
 ### 2022  
 - Hanseo University - Aerospace Software Engineering ✈️  
   
-
 - LIKE LION - Start-up Station 9th 🦁  
   
-
 ### 2023  
 - Inovation Academy - La Piscine 🖥️  
   
-
 - KISIA - Security Developer "SDEV" 🛡️  
   
-
 - Wanted - Data Challenge "Wants" 📊  
   
-
 - KISIA - Information Security Hackathon 🕵️  
 
-
 </td><td valign="top" width="50%">
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -62,13 +45,3 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 </div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
