@@ -1,4 +1,4 @@
-## Aspiring Full Stack Developer Jen 😎  
+## 😎 Aspiring Full Stack Developer Jen
   
 ### Unbounded Exploration 🚀  
  저만의 모티베이션 문구인 "Beyond your imagination" 처럼, <br>더욱 더 많고 폭 넓은 경험을 지향하며 다양한 도전을 실천하고 있습니다.  
@@ -9,7 +9,7 @@
   
 - 어떤 문제든지 직면해볼 것. 노력으로 해결 안되는건 없다. 💪  
 
-## Education and Career Path
+## 📚 Education and Career Path
 
 ### 2022  
 - Hanseo University - Aerospace Software Engineering ✈️  
@@ -27,7 +27,7 @@
 
 </td><td valign="top" width="50%">
 
-## Languages and Tools  
+## 🛠️ Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
