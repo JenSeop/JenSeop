@@ -11,10 +11,41 @@
 
 ## 📚 Education and Career Path
 
-| Year | Education and Career | Project |
-| ---- | -------------------- | ------- |
-| 2022 | - Hanseo University - Aerospace Software Engineering ✈️ <br>　 - Social venture and start-up plans 🌱 <br>　 - BM Advancement and Intellectual Property 💼 <br> - LIKE LION - Start-up Station 9th 🦁 | - BYI ERP Project - Graduate Project 🎓 <br> - National University - ESG IR Competition 🥇 <br> - Jewelry eCommerce - OSOYB Project 💍 |
-| 2023 | - Inovation Academy - La Piscine 🖥️ <br> - KISIA - Security Developer "SDEV" 🛡️ <br> - AWS - Builders Online Series 🌐 <br> - Wanted - Data Challenge "Wants" 📊 <br> - KISIA - Information Security Hackathon 🕵️ <br> - Woowahan - Woowahan Tech Conference 🌟 | - Mobile Static Analytics - Scanwich Project 🔍 |
+<table align="center">
+  <tr>
+    <th>Year</th>
+    <th>Education and Career</th>
+    <th>Project</th>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>
+      - Hanseo University - Aerospace Software Engineering ✈️ <br>
+      - Social venture and start-up plans 🌱 <br>
+      - BM Advancement and Intellectual Property 💼 <br>
+      - LIKE LION - Start-up Station 9th 🦁
+    </td>
+    <td>
+      - BYI ERP Project - Graduate Project 🎓 <br>
+      - National University - ESG IR Competition 🥇 <br>
+      - Jewelry eCommerce - OSOYB Project 💍
+    </td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>
+      - Inovation Academy - La Piscine 🖥️ <br>
+      - KISIA - Security Developer "SDEV" 🛡️ <br>
+      - AWS - Builders Online Series 🌐 <br>
+      - Wanted - Data Challenge "Wants" 📊 <br>
+      - KISIA - Information Security Hackathon 🕵️ <br>
+      - Woowahan - Woowahan Tech Conference 🌟
+    </td>
+    <td>
+      - Mobile Static Analytics - Scanwich Project 🔍
+    </td>
+  </tr>
+</table>
 
 </td><td valign="top" width="50%">
 
