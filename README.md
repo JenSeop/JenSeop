@@ -11,23 +11,10 @@
 
 ## 📚 Education and Career Path
 
-### 2022  
-- Hanseo University - Aerospace Software Engineering ✈️  
-  
-- LIKE LION - Start-up Station 9th 🦁  
-  
-### 2023  
-- Inovation Academy - La Piscine 🖥️  
-  
-- KISIA - Security Developer "SDEV" 🛡️
-
-- AWS - Builders Online Series 🌐
-  
-- Wanted - Data Challenge "Wants" 📊  
-  
-- KISIA - Information Security Hackathon 🕵️
-
-- Woowahan - Woowahan Tech Conference 🌟
+| Year | Education and Career | Project |
+| ---- | -------------------- | ------- |
+| 2022 | - Hanseo University - Aerospace Software Engineering ✈️ <br>　 - Social venture and start-up plans 🌱 <br>　 - BM Advancement and Intellectual Property 💼 <br> - LIKE LION - Start-up Station 9th 🦁 | - BYI ERP Project - Graduate Project 🎓 <br> - National University - ESG IR Competition 🥇 <br> - Jewelry eCommerce - OSOYB Project 💍 |
+| 2023 | - Inovation Academy - La Piscine 🖥️ <br> - KISIA - Security Developer "SDEV" 🛡️ <br> - AWS - Builders Online Series 🌐 <br> - Wanted - Data Challenge "Wants" 📊 <br> - KISIA - Information Security Hackathon 🕵️ <br> - Woowahan - Woowahan Tech Conference 🌟 | - Mobile Static Analytics - Scanwich Project 🔍 |
 
 </td><td valign="top" width="50%">
 
