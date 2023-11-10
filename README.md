@@ -19,11 +19,15 @@
 ### 2023  
 - Inovation Academy - La Piscine 🖥️  
   
-- KISIA - Security Developer "SDEV" 🛡️  
+- KISIA - Security Developer "SDEV" 🛡️
+
+- AWS - Builders Online Series 🌐
   
 - Wanted - Data Challenge "Wants" 📊  
   
-- KISIA - Information Security Hackathon 🕵️  
+- KISIA - Information Security Hackathon 🕵️
+
+- Woowahan - Woowahan Tech Conference 🌟
 
 </td><td valign="top" width="50%">
 
