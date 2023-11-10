@@ -26,7 +26,7 @@
       - LIKE LION - Start-up Station 9th 🦁
     </td>
     <td>
-      - BYI ERP Project - Graduate Project 🎓 <br>
+      - Graduate - <a href="https://github.com/JenSeop/DASE-TGP-BYI-ERP">BYI ERP</a> Project 🎓 <br>
       - National University - ESG IR Competition 🥇 <br>
       - Jewelry eCommerce - OSOYB Project 💍
     </td>
@@ -42,7 +42,7 @@
       - Woowahan - Woowahan Tech Conference 🌟
     </td>
     <td>
-      - Mobile Static Analytics - Scanwich Project 🔍
+      - Mobile Static Analytics - <a href="https://github.com/JenSeop/Scanwich">Scanwich</a> Project 🔍
     </td>
   </tr>
 </table>
