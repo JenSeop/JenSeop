@@ -1,9 +1,9 @@
 ## 😎 Aspiring Full Stack Developer Jen
   
-### Unbounded Exploration 🚀  
+### 🚀 Unbounded Exploration  
  저만의 모티베이션 문구인 "Beyond your imagination" 처럼, <br>더욱 더 많고 폭 넓은 경험을 지향하며 다양한 도전을 실천하고 있습니다.  
   
-### Overcoming Challenges 🏆  
+### 🏆 Overcoming Challenges 
 
 - 한발 더 앞서 생각할 것. 크게 보아야 더 잘 보인다. 💡  
   
