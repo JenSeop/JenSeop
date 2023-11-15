@@ -38,7 +38,7 @@
       - KISIA - Security Developer "SDEV" 🛡️ <br>
       - AWS - Builders Online Series 🌐 <br>
       - Wanted - Data Challenge "Wants" 📊 <br>
-      - KISIA - Information Security Hackathon 🕵️ <br>
+      - KISIA - Information Security <a href="https://github.com/JenSeop/Hackathon-MCGP-URL-Scanner-IUAP">Hackathon</a> 🕵️ <br>
       - Woowahan - Woowahan Tech Conference 🌟
     </td>
     <td>
