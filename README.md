@@ -43,7 +43,7 @@
     </td>
     <td>
       - Mobile Static Analytics - <a href="https://github.com/JenSeop/Scanwich">Scanwich</a> Project 🔍 <br>
-      - Project Team Excellence Award 🏆
+      - SDEV Project Team Excellence Award 🏆
     </td>
   </tr>
 </table>
