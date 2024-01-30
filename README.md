@@ -27,7 +27,7 @@
     </td>
     <td>
       - Graduate - <a href="https://github.com/JenSeop/DASE-TGP-BYI-ERP">BYI ERP</a> Project 🎓 <br>
-      - National University - ESG IR Competition 🥇 <br>
+      - National University - ESG IR Competition 🏆 <br>
       - Jewelry eCommerce - OSOYB Project 💍
     </td>
   </tr>
@@ -42,7 +42,8 @@
       - Woowahan - Woowahan Tech Conference 🌟
     </td>
     <td>
-      - Mobile Static Analytics - <a href="https://github.com/JenSeop/Scanwich">Scanwich</a> Project 🔍
+      - Mobile Static Analytics - <a href="https://github.com/JenSeop/Scanwich">Scanwich</a> Project 🔍 <br>
+      - Project Team Excellence Award 🏆
     </td>
   </tr>
 </table>
