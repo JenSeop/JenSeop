@@ -46,6 +46,13 @@
       - SDEV Project Team Excellence Award 🏆
     </td>
   </tr>
+  <tr>
+    <td>2024</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
 
 </td><td valign="top" width="50%">
