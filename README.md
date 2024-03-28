@@ -49,6 +49,7 @@
   <tr>
     <td>2024</td>
     <td>
+      - NSTEK - System Programer Internship 👼🏻
     </td>
     <td>
     </td>
