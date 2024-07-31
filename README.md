@@ -49,10 +49,12 @@
   <tr>
     <td>2024</td>
     <td>
-      - NSTEK - System Programer Internship 👼🏻 <br>
+      - NSTEK - System Programer Internship 👼🏻<br>
       - NSTEK - System Programer 🤓
     </td>
     <td>
+      - TCP Server/Client Development with LWIP 🛜<br>
+      - Hydrogen Cell Diagnostics with ML 🔋
     </td>
   </tr>
 </table>
