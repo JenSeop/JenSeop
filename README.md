@@ -50,7 +50,8 @@
     <td>2024</td>
     <td>
       - NSTEK - System Programer Internship 👼🏻<br>
-      - NSTEK - System Programer 🤓
+      - NSTEK - System Programer 🤓<br>
+      - NSTEK - DEWA WETEX 2024 in Dubai 🌵
     </td>
     <td>
       - TCP Server/Client Development with LWIP 🛜<br>
