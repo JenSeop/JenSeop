@@ -51,11 +51,13 @@
     <td>
       - NSTEK - System Programer Internship 👼🏻<br>
       - NSTEK - System Programer 🤓<br>
+      - NSTEK - KEET 2024 in Gwangju ✨<br>
       - NSTEK - DEWA WETEX 2024 in Dubai 🌵
     </td>
     <td>
       - TCP Server/Client Development with LWIP 🛜<br>
-      - Hydrogen Cell Diagnostics with ML 🔋
+      - Hydrogen Cell Diagnostics with ML 🔋<br>
+      - Development of Django Asynchronous Backend 🎶
     </td>
   </tr>
 </table>
